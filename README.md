@@ -1,0 +1,1 @@
+This app was made using node.js, express.js and mongodb, following instructions from [this tutorial](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
